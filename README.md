@@ -67,6 +67,7 @@ Physical toggle switches maintain a persistent on/off state, but most games expe
 The two analogue axes in my set-up are mapped to:
 - **Axis 1 (GP27)** — Speed limiter
 - **Axis 2 (GP28)** — Acceleration limiter
+
 but can mapped to anything in game.
 
 These provide fine-grained analogue control over flight parameters that would otherwise require keyboard inputs or menu navigation mid-flight.
